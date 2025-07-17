@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../image"
+		},
+		{
+			"path": "../includes"
+		},
+		{
+			"path": "../uploads"
+		}
+	]
+}

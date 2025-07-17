@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../api"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../backups"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../image"
+		},
+		{
+			"path": "../includes"
+		},
+		{
+			"path": "../uploads"
+		}
+	]
+}
